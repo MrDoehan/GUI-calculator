@@ -1,0 +1,2 @@
+	pi = Button(gui, text="π", fg="black", bg="white",
+          command=lambda: press("π"), height=1, width=7 )
